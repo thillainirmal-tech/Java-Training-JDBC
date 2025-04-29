@@ -1,5 +1,3 @@
-# Define README content for a JDBC project
-readme_jdbc_content = """
 # 🗄️ Java JDBC Example
 
 This project demonstrates how to use **JDBC (Java Database Connectivity)** to interact with a relational database. It shows how to connect to a database, execute queries, and handle results.
